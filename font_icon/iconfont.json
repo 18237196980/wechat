@@ -1,0 +1,37 @@
+{
+  "id": "2505153",
+  "name": "麻雀聊天",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "853012",
+      "name": "小鸟",
+      "font_class": "xiaoniao",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "4933309",
+      "name": "发现",
+      "font_class": "faxian",
+      "unicode": "e720",
+      "unicode_decimal": 59168
+    },
+    {
+      "icon_id": "5121517",
+      "name": "通讯录",
+      "font_class": "tongxunlu",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "5913436",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    }
+  ]
+}
