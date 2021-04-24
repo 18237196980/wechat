@@ -62,7 +62,7 @@
 					pageUrl: "bird-me.html"
 				}
 			];
-			//设置页面打开的样式
+			//设置页面打开的样式(tab选项卡高度是50px)
 			var pageStyle = {
 				top: "0px",
 				bottom: "51px"
@@ -71,7 +71,7 @@
 			mui.plusReady(function() {
 				plus.navigator.setStatusBarBackground(app.headerColor);
 
-				//选项卡代码
+				//底部tab选项卡代码
 				//获取当前的webview对象
 				var indexWebview = plus.webview.currentWebview();
 				//将数组中的页面循环向当前主页webview 追加子页的4个webview对象
